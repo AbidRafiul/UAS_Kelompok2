@@ -6,8 +6,8 @@
   - 📙 Fitur Database[1].pdf
   - 📗 LAPORAN TUGAS UAS kelompok 2.pdf
   - 📕 MANUAL PENGGUNAAN SISTEM MANAJEMEN.pdf
-- **Folder Lainnya** 📁
-  - 🔧 File Tambahan Lain
+- **Folder Basic** 📁
+  - 🔧 Codingan composer
 
 ---
 
