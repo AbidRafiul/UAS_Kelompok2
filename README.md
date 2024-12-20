@@ -1,20 +1,46 @@
-# UAS Kelompok 2
+# 🌟 UAS Kelompok 2 🌟
 
-## Daftar Isi Folder
-- **Dokumen UAS**
-  - Dokumentasi Awal Proyek Pengembangan Basis Data Toko Risky Bawang dan Palawija.pdf
-  - Fitur Database[1].pdf
-  - LAPORAN TUGAS UAS kelompok 2.pdf
-  - MANUAL PENGGUNAAN SISTEM MANAJEMEN.pdf
-- **Folder Lainnya**
-  - File Tambahan Lain
-
-## Kolaborator
-1. **Adia Sandra** - [GitHub Profile](https://github.com/sandraalmeera)
-2. **Yessica** - [GitHub Profile](https://github.com/yesicafapa)
-
+## 📂 Daftar Isi Folder
+- **Dokumen UAS** 📄
+  - 📘 Dokumentasi Awal Proyek Pengembangan Basis Data Toko Risky Bawang dan Palawija.pdf
+  - 📙 Fitur Database[1].pdf
+  - 📗 LAPORAN TUGAS UAS kelompok 2.pdf
+  - 📕 MANUAL PENGGUNAAN SISTEM MANAJEMEN.pdf
+- **Folder Lainnya** 📁
+  - 🔧 File Tambahan Lain
 
 ---
 
-### Deskripsi
-Repository ini berisi hasil kerja kelompok 2 untuk tugas UAS, mencakup dokumentasi awal, fitur basis data, laporan tugas, dan manual penggunaan sistem.
+## 🤝 Kolaborator
+| Nama Kolaborator | GitHub Profile |
+|-------------------|----------------|
+| **Adia Sandra**  | [🌐 Profile](https://github.com/sandraalmeera) |
+| **Yessica**      | [🌐 Profile](https://github.com/yesicafapa) |
+
+---
+
+## 📝 Deskripsi
+Repository ini adalah hasil kolaborasi **Kelompok 2** untuk **Tugas UAS**.  
+Berisi:
+- 📌 Dokumentasi awal proyek.
+- 📌 Fitur basis data.
+- 📌 Laporan tugas kelompok.
+- 📌 Manual penggunaan sistem.  
+
+Kami berharap repository ini dapat membantu dalam memahami proyek kami secara keseluruhan. 😊
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+- **Database**: MySQL
+- **Bahasa Pemrograman**: Python
+- **Dokumentasi**: Microsoft Word dan PDF
+
+---
+
+## 🚀 Cara Menggunakan
+1. Clone repository ini ke lokal:
+   ```bash
+   git clone https://github.com/AbidRafiul/UAS_Kelompok2.git
+2. Buka file dokumen di folder Dokumen UAS.
+3. Ikuti manual penggunaan sistem untuk informasi lebih lanjut.
