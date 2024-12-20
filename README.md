@@ -33,7 +33,7 @@ Kami berharap repository ini dapat membantu dalam memahami proyek kami secara ke
 
 ## 🛠️ Teknologi yang Digunakan
 - **Database**: MySQL
-- **Bahasa Pemrograman**: Python
+- **Bahasa Pemrograman**: PHP
 - **Dokumentasi**: Microsoft Word dan PDF
 
 ---
