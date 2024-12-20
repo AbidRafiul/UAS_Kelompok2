@@ -11,7 +11,7 @@
 
 ## Kolaborator
 1. **Adia Sandra** - [GitHub Profile](https://github.com/sandraalmeera)
-2. **Yessica** - [GitHub Profile](https://github.com/username2)
+2. **Yessica** - [GitHub Profile](https://github.com/yesicafapa)
 
 
 ---
