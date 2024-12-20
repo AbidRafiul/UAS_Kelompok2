@@ -10,9 +10,9 @@
   - File Tambahan Lain
 
 ## Kolaborator
-1. **Nama Kolaborator 1** - [GitHub Profile](https://github.com/username1)
-2. **Nama Kolaborator 2** - [GitHub Profile](https://github.com/username2)
-3. **Nama Kolaborator 3** - [GitHub Profile](https://github.com/username3)
+1. **Adia Sandra** - [GitHub Profile](https://github.com/sandraalmeera)
+2. **Yessica** - [GitHub Profile](https://github.com/username2)
+
 
 ---
 
